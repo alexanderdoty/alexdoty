@@ -2,3 +2,5 @@
 a blog
 
 for my writing but not necessarily your reading
+
+now GO... --->
